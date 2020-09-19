@@ -60,6 +60,7 @@ li div {
     padding: 10px 0;
     font-weight: bold;
     cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 form input {
